@@ -1,0 +1,29 @@
+{
+  "start": "14 Jun 2020",
+  "days": [
+    {
+      "meal": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "meal": "🍍Hawaiian Meatballs and Rice 🍚",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "meal": "🥨 Pretzel Crusted Chicken Bites 🍗"
+    },
+    {
+      "meal": "🍟 Britain's Fast Food Night 🍔",
+      "tasks": ["Pork Loin from freezer 🐖"]
+    },
+    {
+      "meal": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "meal": "🐷 Pork Loin Roast 🐖"
+    },
+    {
+      "meal": "🌭 J-Dawgs 🥤"
+    }
+  ]
+}
