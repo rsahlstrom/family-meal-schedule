@@ -1,0 +1,32 @@
+{
+  "start": "28 Jun 2020",
+  "days": [
+    {
+      "dinner": "🍝 Baked Macaroni and Cheese 🧀"
+    },
+    {
+      "dinner": "🇫🇷 French Toast 🍞",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍖 Ooey Gooey Cheesy Meatballs ⚽️",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "slowCooker": true,
+      "dinner": "🍗 Chicken and Roasted Vegetables Dinner 🥔"
+    },
+    {
+      "note": "👩🏻‍🏫 Aunt Rachel is in charge! 🕴🏻"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Ground chicken from freezer 🐓"]
+    },
+    {
+      "breakfast": "🥓 Bacon, Egg, and Toast Cups 🍳",
+      "lunch": "🍖 Ribs, Watermelon, and Corn 🍉",
+      "dinner": "🐓 Mini Chicken Burgers with Herbs 🌿"
+    }
+  ]
+}
