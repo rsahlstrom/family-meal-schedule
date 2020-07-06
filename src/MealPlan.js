@@ -11,7 +11,9 @@ import { format, addDays } from 'date-fns';
 export default ({ start, days }) => {
   return days.map((day, index) => {
     const mealDate = addDays(new Date(start), index);
-    const showType = day.dinner && (day.lunch || day.breakfast);
+    const showType =
+      (day.dinner && (day.lunch || day.breakfast)) ||
+      (day.lunch && day.breakfast);
     return (
       <>
         <Row weekday={format(mealDate, 'E')}>

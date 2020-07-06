@@ -1,0 +1,29 @@
+{
+  "start": "05 Jul 2020",
+  "days": [
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆"
+    },
+    {
+      "dinner": "🍔 Eden's Fastfood 🍟",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 Britain's Fastfood 🍟"
+    },
+    {
+      "dinner": "🐖 Ham and Cheese Quiche 🧀",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🐄 BBQ Cups 🍅",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍗 Mini Crescent Chicken Pot Pies 🥧"
+    }
+  ]
+}
