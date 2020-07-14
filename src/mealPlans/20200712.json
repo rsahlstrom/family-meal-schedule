@@ -1,0 +1,27 @@
+{
+  "start": "12 Jul 2020",
+  "days": [
+    {
+      "dinner": "🍕 Pizza 🇮🇹"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍗 Mini Crescent Chicken Pot Pies 🥧"
+    },
+    {
+      "dinner": "🥣 Cereal 🐄"
+    },
+    {
+      "dinner": "🦖 Dinosuar Nuggets 🦕"
+    },
+    {
+      "dinner": "🍔 Fastfood 🍟"
+    }
+  ]
+}
