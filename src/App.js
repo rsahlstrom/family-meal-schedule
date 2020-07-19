@@ -1,6 +1,6 @@
 import React from 'react';
 import MealPlan from './MealPlan';
-import mealPlanData from './mealPlans/20200712.json';
+import mealPlanData from './mealPlans/20200719.json';
 import { format, addDays } from 'date-fns';
 
 function App() {
