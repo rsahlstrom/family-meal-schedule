@@ -1,0 +1,27 @@
+{
+  "start": "26 Jul 2020",
+  "days": [
+    {
+      "dinner": "🍝 Easy Lasagna - No Barf Ricotta 🍅"
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🍝 Baked Macaroni and Cheese 🧀",
+      "tasks": ["Ground chicken from freezer 🐓"]
+    },
+    {
+      "dinner": "🐓 Mini Chicken Burgers with Herbs 🌿"
+    }
+  ]
+}
