@@ -1,0 +1,30 @@
+{
+  "start": "09 Aug 2020",
+  "days": [
+    {
+      "dinner": "🥩 Sirloin Steak with Garlic Butter 🧈"
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹",
+      "tasks": ["Chicken tenders from freezer 🐓"]
+    },
+    {
+      "dinner": "🍗 Parmesan Chicken Tenders 🧀"
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Marinate Chicken 🐓"]
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅"
+    }
+  ]
+}
