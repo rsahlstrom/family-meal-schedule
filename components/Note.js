@@ -1,5 +1,6 @@
 import React from 'react';
+import 'twin.macro';
 
 export default ({ children }) => {
-  return <p className="italic">{children}</p>;
+  return <p tw="italic">{children}</p>;
 };

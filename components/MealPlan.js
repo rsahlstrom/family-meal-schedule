@@ -8,14 +8,14 @@ import Todo from './Todo';
 import Alert from './Alert';
 import { format, addDays } from 'date-fns';
 
-export default ({ start, days }) => {
+const MealPlan = ({ start, days }) => {
   return days.map((day, index) => {
     const mealDate = addDays(new Date(start), index);
     const showType =
       (day.dinner && (day.lunch || day.breakfast)) ||
       (day.lunch && day.breakfast);
     return (
-      <>
+      <React.Fragment key={format(mealDate, 't')}>
         <Row weekday={format(mealDate, 'E')}>
           <Day date={mealDate} />
           <Meals>
@@ -39,7 +39,9 @@ export default ({ start, days }) => {
           </Meals>
         </Row>
         <Todo tasks={day.tasks} />
-      </>
+      </React.Fragment>
     );
   });
 };
+
+export default MealPlan;
