@@ -1,0 +1,29 @@
+{
+  "start": "16 Aug 2020",
+  "days": [
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅"
+    },
+    {
+      "dinner": "🥞 Perfect Pancakes 🥇",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🐓 Crispy Cheddar Chicken 🧀"
+    },
+    {
+      "dinner": "🐖 Ham and Cheese Quiche 🧀",
+      "tasks": ["Pork Tenderloin from freezer 🐓"]
+    },
+    {
+      "dinner": "🐖 Honey Sesame Pork Tenderloin 🍯"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍝 Easy Lasagna - No Barf Ricotta 🍅"
+    }
+  ]
+}

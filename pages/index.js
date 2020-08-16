@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import MealPlan from 'components/MealPlan';
-import mealPlanData from 'mealPlans/20200809.json';
+import mealPlanData from 'mealPlans/20200816.json';
 import { format, addDays } from 'date-fns';
 import 'twin.macro';
 

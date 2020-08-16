@@ -26,8 +26,8 @@
       "config": "tailwind.config.js",
       "preset": "styled-components",
       "debugProp": true,
-      "debugPlugins": true,
-      "debug": true
+      "debugPlugins": false,
+      "debug": false
     }
   },
   "husky": {
