@@ -2,28 +2,28 @@
   "start": "21 Jun 2020",
   "days": [
     {
-      "meal": "🐓 Oven Roasted Chicken 🥕",
+      "dinner": "🐓 Oven Roasted Chicken 🥕",
       "tasks": ["Ground chicken from freezer 🐓"]
     },
     {
-      "meal": "🐓 Mini Chicken Burgers with Herbs 🌿"
+      "dinner": "🐓 Mini Chicken Burgers with Herbs 🌿"
     },
     {
-      "meal": "🇩🇪 German Pancakes 🥞",
+      "dinner": "🇩🇪 German Pancakes 🥞",
       "tasks": ["Ground beef from freezer 🐄"]
     },
     {
-      "meal": "🐄 Mini Meatloaves 🍅"
+      "dinner": "🐄 Mini Meatloaves 🍅"
     },
     {
-      "meal": "🍔 Dad's Fastfood 🍟"
+      "dinner": "🍔 Dad's Fastfood 🍟"
     },
     {
-      "meal": "🍝 Macaroni and Cheese Muffins 🧀",
+      "dinner": "🍝 Macaroni and Cheese Muffins 🧀",
       "tasks": ["Bavette Steak from freezer 🐄"]
     },
     {
-      "meal": "🐄 Bavette Steak 🥩"
+      "dinner": "🐄 Bavette Steak 🥩"
     }
   ]
 }

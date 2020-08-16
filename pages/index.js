@@ -1,30 +1,57 @@
+import PageHeading from 'components/PageHeading';
+import Link from 'next/Link';
 import Head from 'next/head';
-import MealPlan from 'components/MealPlan';
-import mealPlanData from 'mealPlans/20200816.json';
-import { format, addDays } from 'date-fns';
+import { format } from 'date-fns';
+import fs from 'fs';
+import path from 'path';
 import 'twin.macro';
 
-export default function Index() {
-  const startDate = new Date(mealPlanData.start);
-  const endDate = addDays(
-    new Date(mealPlanData.start),
-    mealPlanData.days.length - 1
-  );
-
+const Index = ({ plans }) => {
   return (
     <>
       <Head>
         <title>Family Meal Schedule</title>
       </Head>
 
-      <main tw="mx-auto max-w-screen-sm">
-        <h1 tw="text-6xl text-center leading-none mt-4">Dinner Schedule</h1>
-        <h2 tw="text-lg text-center mb-4">
-          {format(startDate, 'EEEE, d MMM yyyy')} &ndash;{' '}
-          {format(endDate, 'EEEE, d MMM yyyy')}
-        </h2>
-        <MealPlan {...mealPlanData} />
-      </main>
+      <PageHeading>Weekly Meal Schedules</PageHeading>
+      <ul tw="list-disc">
+        {plans.map((plan) => {
+          return (
+            <li key={`plan${plan.year}${plan.month}${plan.date}`}>
+              <Link
+                href="/plan/[year]/[month]/[date]"
+                as={`/plan/${plan.year}/${plan.month}/${plan.date}`}
+              >
+                <a>{plan.title}</a>
+              </Link>
+            </li>
+          );
+        })}
+      </ul>
     </>
   );
+};
+
+export async function getStaticProps() {
+  const mealPlansDirectory = path.join(process.cwd(), 'mealPlans');
+  const filenames = fs.readdirSync(mealPlansDirectory);
+  const plans = filenames.map((filename) => {
+    const matches = filename.match(/(\d{4})(\d{2})(\d{2})/);
+    const mealPlanFile = path.join(mealPlansDirectory, filename);
+    const fileContents = JSON.parse(fs.readFileSync(mealPlanFile, 'utf8'));
+    const startDate = new Date(fileContents.start);
+    return {
+      title: format(startDate, 'dd MMM yyyy'),
+      year: matches[1],
+      month: matches[2],
+      date: matches[3],
+    };
+  });
+  return {
+    props: {
+      plans,
+    },
+  };
 }
+
+export default Index;
