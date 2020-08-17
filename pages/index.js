@@ -1,5 +1,5 @@
 import PageHeading from 'components/PageHeading';
-import Link from 'next/Link';
+import Link from 'next/link';
 import Head from 'next/head';
 import { format } from 'date-fns';
 import fs from 'fs';
