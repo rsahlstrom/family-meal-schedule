@@ -1,0 +1,27 @@
+{
+  "start": "07 Jun 2020",
+  "days": [
+    {
+      "dinner": "🐄 Pan Seared Sirloin Bavette Steak 🥩"
+    },
+    {
+      "dinner": "🐓 Prego Creamy Lemon Parmesan Chicken with Egg Noodles 🍋"
+    },
+    {
+      "dinner": "🥓 Bacon-Cheese Pull-Aparts 🧀"
+    },
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅"
+    },
+    {
+      "dinner": "🇫🇷 French Toast 🍞"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Brine chicken"]
+    },
+    {
+      "dinner": "🐓 Roasted Chicken with Garlic and Herbs 🌿"
+    }
+  ]
+}

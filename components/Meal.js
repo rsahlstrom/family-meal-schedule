@@ -1,7 +1,7 @@
 import React from 'react';
 import 'twin.macro';
 
-export default ({ showType, type, children }) => {
+const Meal = ({ showType, type, children }) => {
   if (showType) {
     return (
       <p tw="text-lg">
@@ -12,3 +12,5 @@ export default ({ showType, type, children }) => {
 
   return <p tw="text-lg">{children}</p>;
 };
+
+export default Meal;

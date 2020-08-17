@@ -2,7 +2,7 @@ import React from 'react';
 import { format } from 'date-fns';
 import 'twin.macro';
 
-export default ({ date }) => {
+const Day = ({ date }) => {
   return (
     <div tw="col-span-1">
       <div tw="inline-flex flex-col">
@@ -13,3 +13,5 @@ export default ({ date }) => {
     </div>
   );
 };
+
+export default Day;
