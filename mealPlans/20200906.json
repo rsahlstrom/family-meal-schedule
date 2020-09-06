@@ -1,0 +1,28 @@
+{
+  "start": "06 Sep 2020",
+  "days": [
+    {
+      "dinner": "🐓 Roasted Chicken with Garlic and Herbs 🌿"
+    },
+    {
+      "dinner": "👹 Deviled Eggs 🥚",
+      "tasks": ["Ground chicken from freezer 🐓"]
+    },
+    {
+      "dinner": "🐓 Mini Chicken Burgers with Herbs 🌿"
+    },
+    {
+      "dinner": "🧇 Cinnamon Roll Waffles 🧁"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "dinner": "🍝 Baked Macaroni and Cheese 🧀",
+      "tasks": ["New York Strip Steak from freezer 🐄"]
+    },
+    {
+      "dinner": "🐄 New York Strip Steak with Garlic Butter 🥩"
+    }
+  ]
+}
