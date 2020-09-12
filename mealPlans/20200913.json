@@ -1,0 +1,29 @@
+{
+  "start": "13 Sep 2020",
+  "days": [
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "slowCooker": true,
+      "dinner": "🍗 Chicken and Roasted Vegetables Dinner 🥔"
+    },
+    {
+      "dinner": "🍝 Baked Macaroni and Cheese 🧀"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🌮 Taco Melts 🏜"
+    }
+  ]
+}
