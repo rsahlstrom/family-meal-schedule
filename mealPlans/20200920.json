@@ -1,0 +1,29 @@
+{
+  "start": "20 Sep 2020",
+  "days": [
+    {
+      "dinner": "🍝 Easy Lasagna - No Barf Ricotta 🍅"
+    },
+    {
+      "dinner": "🌭 J-Dawgs 🥤"
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹",
+      "tasks": ["Chicken breast from freezer 🐓"]
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅",
+      "tasks": ["Chicken wings from freezer 🐓"]
+    },
+    {
+      "dinner": "🍯 Honey Garlic Chicken Wings 🍗"
+    }
+  ]
+}
