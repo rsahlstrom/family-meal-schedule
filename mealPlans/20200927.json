@@ -1,0 +1,28 @@
+{
+  "start": "27 Sep 2020",
+  "days": [
+    {
+      "dinner": "Mummy Dogs",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🍔 Fast Food "
+    },
+    {
+      "dinner": "🍝 Baked Macaroni and Cheese 🧀",
+      "tasks": ["Chicken breast from freezer 🐓"]
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    }
+  ]
+}
