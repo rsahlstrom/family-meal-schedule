@@ -1,0 +1,29 @@
+{
+  "start": "25 Oct 2020",
+  "days": [
+    {
+      "dinner": "🇰🇷 Korean Ground Beef 🐄"
+    },
+    {
+      "dinner": "🍗 Chicken Strips 🐓",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗",
+      "tasks": ["Chicken Thighs from freezer 🐓"]
+    },
+    {
+      "dinner": "🍗 Chicken and Roasted Vegetables Dinner 🥔",
+      "slowCooker": true
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "dinner": "🇫🇷 Uber French Toast 🥖"
+    }
+  ]
+}
