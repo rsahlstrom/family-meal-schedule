@@ -1,0 +1,27 @@
+{
+  "start": "15 Nov 2020",
+  "days": [
+    {
+      "dinner": "🥞 Double Chocolate Pancakes 🍫"
+    },
+    {
+      "dinner": "🍝 Pasta Carbonara 🥓"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍝 Baked Macaroni and Cheese 🧀"
+    },
+    {
+      "dinner": "🥸 Britain's Birthday Dinner 🎉"
+    }
+  ]
+}
