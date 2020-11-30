@@ -1,0 +1,29 @@
+{
+  "start": "29 Nov 2020",
+  "days": [
+    {
+      "dinner": "Cheesy Bacon Chicken Casserole"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🌮 Taco Melts 🏜"
+    },
+    {
+      "dinner": "🧀 Grilled Cheese Sandwiches 🥪"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🐓 Crispy Cheddar Chicken 🧀",
+      "tasks": ["Chicken wings from freezer 🐓"]
+    },
+    {
+      "dinner": "🌶 Epic Dry-Rubbed Baked Chicken Wings 🍗"
+    }
+  ]
+}
