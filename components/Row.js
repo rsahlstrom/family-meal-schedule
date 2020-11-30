@@ -2,7 +2,7 @@ import React from 'react';
 import tw, { styled } from 'twin.macro';
 
 const StyledRow = styled.div`
-  ${tw`grid grid-cols-6 text-gray-800 mb-2 px-6 py-2 border-black border-t-2 border-b-2`}
+  ${tw`grid grid-cols-6 text-gray-800 mb-2 px-5 py-2 border-black border-t-2 border-b-2`}
   ${({ weekday }) => {
     if (weekday === 'Sun') {
       return tw`bg-red-200`;

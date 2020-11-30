@@ -6,7 +6,7 @@ const ToDo = ({ tasks = [] }) => {
     return null;
   }
   return (
-    <div tw="grid grid-cols-6 px-6 mb-2">
+    <div tw="grid grid-cols-6 px-5 mb-2">
       <div tw="col-span-1" />
       <div tw="col-span-5">
         <ul tw="flex">
