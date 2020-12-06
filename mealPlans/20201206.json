@@ -1,0 +1,28 @@
+{
+  "start": "06 Dec 2020",
+  "days": [
+    {
+      "dinner": "🌶 Epic Dry-Rubbed Baked Chicken Wings 🍗",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "dinner": "🍝 Buttered Egg Noodles 🧈",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍿 Popcorn Chicken 🐓"
+    }
+  ]
+}
