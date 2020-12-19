@@ -1,0 +1,29 @@
+{
+  "start": "20 Dec 2020",
+  "days": [
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧",
+      "tasks": ["Pork tenderloin from freezer 🐖"]
+    },
+    {
+      "dinner": "♨️ Air Fryer Chicken Breasts"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "♨️ Air Fryer Pork Tenderloin"
+    },
+    {
+      "dinner": "🍕 Dad-made Pizza 🧔🏻"
+    }
+  ]
+}
