@@ -1,0 +1,30 @@
+{
+  "start": "10 Jan 2021",
+  "days": [
+    {
+      "dinner": "🐖 Ham and Cheese Quiche 🧀",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Pork Loin from freezer 🐖"]
+    },
+    {
+      "dinner": "♨️ Air Fryer Orange Chicken 🍗"
+    },
+    {
+      "dinner": "🐷 Pork Loin Roast 🐖"
+    }
+  ]
+}

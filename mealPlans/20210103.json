@@ -1,0 +1,29 @@
+{
+  "start": "03 Jan 2021",
+  "days": [
+    {
+      "dinner": "🥨 Soft Pretzels and Cheese 🧀",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🥚 Egg Sandwiches 🥪"
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🍝 Baked Macaroni and Cheese 🧀",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🍿 Popcorn Chicken 🐓"
+    }
+  ]
+}
