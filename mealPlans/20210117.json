@@ -1,0 +1,29 @@
+{
+  "start": "17 Jan 2021",
+  "days": [
+    {
+      "dinner": "🍝 Easy Lasagna - No Barf Ricotta 🍅",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🇫🇷 French Toast 🍞",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅"
+    },
+    {
+      "dinner": "🍿 Popcorn Chicken 🐓"
+    },
+    {
+      "dinner": "🍔 McDonald's 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "♨️ Grilled Air Fryer Pizzas 🍕"
+    },
+    {
+      "dinner": "🍗 BBQ Chicken Crescents 🍅"
+    }
+  ]
+}
