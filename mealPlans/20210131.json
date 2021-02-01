@@ -2,7 +2,8 @@
   "start": "31 Jan 2021",
   "days": [
     {
-      "dinner": "🥪 Sandwich Bar 🥬"
+      "dinner": "🥪 Sandwich Bar 🥬",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
     },
     {
       "dinner": "🇩🇪 German Pancakes 🥞"
@@ -11,10 +12,12 @@
       "dinner": "🐚 Chicken and Broccoli Alfredo Stuffed Shells 🍗"
     },
     {
-      "dinner": "🎃 Mummy Dogs 🌭"
+      "dinner": "🎃 Mummy Dogs 🌭",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
     },
     {
-      "dinner": "🍔 Fast Food By Mom 🍟"
+      "dinner": "🍔 Fast Food By Mom 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
     },
     {
       "dinner": "🍋 Lemon Pepper Chicken 🍗"
