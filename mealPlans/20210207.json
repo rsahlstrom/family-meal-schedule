@@ -1,0 +1,29 @@
+{
+  "start": "07 Feb 2021",
+  "days": [
+    {
+      "dinner": "🍔 Cheesy Chicken Sloppy Joes 🐓",
+      "tasks": ["Hamburgers from freezer 🐄"]
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🍔 Hamburgers and Hot Dogs 🌭"
+    },
+    {
+      "dinner": "🍝 Pasta Carbonara 🥓"
+    },
+    {
+      "dinner": "🍔 Fast Food By Russell 🍟",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🥞 Perfect Pancakes 🥇",
+      "tasks": ["Steak from freezer 🐄"]
+    },
+    {
+      "dinner": "🌮 Taco Tuesday 🇲🇽"
+    }
+  ]
+}
