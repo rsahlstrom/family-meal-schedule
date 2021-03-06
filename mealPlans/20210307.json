@@ -1,0 +1,29 @@
+{
+  "start": "07 Mar 2021",
+  "days": [
+    {
+      "dinner": "🍳 Bacon, Egg, and Toast Cups 🥓",
+      "tasks": ["Gound Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍖 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🍿 Popcorn Chicken 🐔",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Russell 🍟"
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    }
+  ]
+}
