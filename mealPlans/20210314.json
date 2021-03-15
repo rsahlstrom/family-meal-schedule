@@ -1,0 +1,27 @@
+{
+  "start": "14 Mar 2021",
+  "days": [
+    {
+      "dinner": "🍳 Make Your Own Breakfast Cups 🥓"
+    },
+    {
+      "dinner": "🌭 Spicy Sausage Pasta 🍝"
+    },
+    {
+      "dinner": "🥞 Pancakes and Bacon 🥓"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍔 Fast Food By Britain 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍕 Mini Pizzas 🇮🇹"
+    },
+    {
+      "dinner": "🥔 Potato Chip Chicken 🍗"
+    }
+  ]
+}
