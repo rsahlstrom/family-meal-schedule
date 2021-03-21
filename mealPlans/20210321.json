@@ -1,0 +1,28 @@
+{
+  "start": "21 Mar 2021",
+  "days": [
+    {
+      "dinner": "🥔 Potato Chip Chicken 🍗"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Chicken Tenderloins from freezer 🐓"]
+    },
+    {
+      "dinner": "🍝 Baked Macaroni and Cheese 🧀"
+    },
+    {
+      "dinner": "🧄 Garlic Parmesan Chicken Tenders 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟",
+      "tasks": ["Ground Chicken from freezer 🐓"]
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🍔 Cheesy Chicken Sloppy Joes 🍗"
+    }
+  ]
+}
