@@ -1,0 +1,28 @@
+{
+  "start": "28 Mar 2021",
+  "days": [
+    {
+      "dinner": "🍔 Cheesy Chicken Sloppy Joes 🍗",
+      "tasks": ["Gound Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🥚 Brunch Egg Bake 👩‍🍳",
+      "tasks": ["Pork shoulder from freezer 🐖"]
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🥪 Pulled Pork Sandwiches 🐷"
+    },
+    {
+      "dinner": "🍔 Fast Food By Mom 🍟"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🍔 Cinnamon Rolls 🍗"
+    }
+  ]
+}
