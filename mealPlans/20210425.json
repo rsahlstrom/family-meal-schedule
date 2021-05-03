@@ -1,0 +1,27 @@
+{
+  "start": "25 Apr 2021",
+  "days": [
+    {
+      "dinner": "🍗 BBQ Chicken Thighs 🦵"
+    },
+    {
+      "dinner": "🐖 Ham and Cheese Quiche 🧀"
+    },
+    {
+      "dinner": "🍝 Spaghetti Carbonara 🥓"
+    },
+    {
+      "dinner": "🍿 Popcorn Chicken🍗",
+      "tasks": ["Ground chicken from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Mom 🍟"
+    },
+    {
+      "dinner": "🍋 Asian Lemon Chicken 🍗"
+    },
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    }
+  ]
+}

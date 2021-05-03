@@ -1,0 +1,27 @@
+{
+  "start": "02 May 2021",
+  "days": [
+    {
+      "dinner": "🍋 Asian Lemon Chicken 🍗",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🐖 Ham and Cheese Quiche 🧀"
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍔 Fast Food By dad 🍟"
+    },
+    {
+      "dinner": "🍝 Spaghetti Carbonara 🥓"
+    },
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    }
+  ]
+}
