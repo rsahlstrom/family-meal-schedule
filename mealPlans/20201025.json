@@ -14,7 +14,7 @@
     },
     {
       "dinner": "🍗 Chicken and Roasted Vegetables Dinner 🥔",
-      "slowCooker": true
+      "alert": "Slow cooker meal!"
     },
     {
       "dinner": "🎃 Mummy Dogs 🌭"

@@ -19,7 +19,7 @@ const MealPlan = ({ start, days }) => {
         <Row weekday={format(mealDate, 'E')}>
           <Day date={mealDate} />
           <Meals>
-            {day.slowCooker ? <Alert>Slow cooker meal!</Alert> : null}
+            {day.alert ? <Alert>{day.alert}</Alert> : null}
             {day.note ? <Note>{day.note}</Note> : null}
             {day.breakfast ? (
               <Meal type="breakfast" showType={showType}>

@@ -13,8 +13,8 @@
       "tasks": ["Chicken breasts from freezer 🐓"]
     },
     {
-      "slowCooker": true,
-      "dinner": "🍗 Chicken and Roasted Vegetables Dinner 🥔"
+      "dinner": "🍗 Chicken and Roasted Vegetables Dinner 🥔",
+      "alert": "Slow cooker meal!"
     },
     {
       "note": "👩🏻‍🏫 Aunt Rachel is in charge! 🕴🏻"

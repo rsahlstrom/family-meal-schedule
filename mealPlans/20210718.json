@@ -1,0 +1,29 @@
+{
+  "start": "18 Jul 2021",
+  "days": [
+    {
+      "dinner": "🥞 Pan Pizza 🍕",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟"
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍕 Pizza 🇮🇹",
+      "tasks": ["Marinate chicken 🐓"]
+    },
+    {
+      "dinner": "🥓 Monterey Chicken 🍗"
+    },
+    {
+      "dinner": "♨️ Air Fryer Cinnamon Rolls 🧁"
+    }
+  ]
+}
