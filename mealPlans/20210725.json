@@ -1,0 +1,29 @@
+{
+  "start": "25 Jul 2021",
+  "days": [
+    {
+      "dinner": "🐖 Ham and Cheese Quiche 🧀",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍕 Pizza 🇮🇹",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚",
+      "tasks": ["Marinate chicken 🐓"]
+    },
+    {
+      "dinner": "🍯 Honey Citrus Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food By Mom 🍟"
+    },
+    {
+      "dinner": "🦖 Dino Nuggets 🦕"
+    },
+    {
+      "dinner": "♨️ Grilled Cheese 🧀"
+    }
+  ]
+}
