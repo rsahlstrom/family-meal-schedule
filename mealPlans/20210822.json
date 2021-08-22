@@ -1,0 +1,28 @@
+{
+  "start": "22 Aug 2021",
+  "days": [
+    {
+      "dinner": "🧀 Grilled Cheese Sandwiches 🥪"
+    },
+    {
+      "dinner": "🍕 Pizza 🇮🇹"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Britain 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍿 Popcorn Chicken 🐓"
+    },
+    {
+      "dinner": "🍍 Hawaiian BBQ Chicken Hoagies 🚇"
+    }
+  ]
+}

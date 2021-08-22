@@ -1,0 +1,29 @@
+{
+  "start": "15 Aug 2021",
+  "days": [
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    },
+    {
+      "dinner": "🍕 Pizza 🇮🇹",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "🍯 Honey Citrus Chicken 🍗",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Dad 🍟",
+      "tasks": ["Marinate chicken 🐓"]
+    },
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧"
+    },
+    {
+      "dinner": "🧀 Grilled Cheese Sandwiches 🥪"
+    }
+  ]
+}
