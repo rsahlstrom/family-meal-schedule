@@ -1,0 +1,29 @@
+{
+  "start": "29 Aug 2021",
+  "days": [
+    {
+      "dinner": "🧁 Cinnamon Rolls 🍞"
+    },
+    {
+      "dinner": "🇺🇸 American Pancakes 🥞",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "👵🏻 Grandma's Macaroni & Cheese 🧀"
+    },
+    {
+      "dinner": "🍗 Chicken Quesadillas 🌯",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟",
+      "tasks": ["Ground chicken from freezer 🐓"]
+    },
+    {
+      "dinner": "🌮 Taco Tuesday 🇲🇽"
+    },
+    {
+      "dinner": "🍗 Chicken Meatball Sliders 🍔"
+    }
+  ]
+}
