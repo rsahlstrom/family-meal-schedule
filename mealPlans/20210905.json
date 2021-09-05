@@ -1,0 +1,27 @@
+{
+  "start": "05 Sep 2021",
+  "days": [
+    {
+      "dinner": "🍗 BBQ Popcorn Chicken 🍿"
+    },
+    {
+      "dinner": "🇺🇸 American Pancakes 🥞"
+    },
+    {
+      "dinner": "🍕 Pizza 🇮🇹"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🍔 Fast Food By Mom 🍟",
+      "tasks": ["Ground beef & pork from freezer 🐄 🐖"]
+    },
+    {
+      "dinner": "🦖 Dino Nuggets 🦕"
+    },
+    {
+      "dinner": "🍝 Baked Spaghetti and Meatballs 🍖"
+    }
+  ]
+}
