@@ -1,0 +1,27 @@
+{
+  "start": "12 Sep 2021",
+  "days": [
+    {
+      "dinner": "🍳 Monterey Jack Souffle 🧀"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭",
+      "tasks": ["Chicken breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍕 Pizza 🇮🇹"
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food By Dad 🍟"
+    },
+    {
+      "dinner": "🦖 Dino Nuggets 🦕"
+    },
+    {
+      "dinner": "🍳 Air Fryer Breakfast Bombs 💣"
+    }
+  ]
+}
