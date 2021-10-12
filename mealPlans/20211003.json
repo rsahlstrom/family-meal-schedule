@@ -1,0 +1,28 @@
+{
+  "start": "03 Oct 2021",
+  "days": [
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅"
+    },
+    {
+      "dinner": "🍕 Pizza 🇮🇹"
+    },
+    {
+      "dinner": "🇺🇸 American Pancakes 🥞",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟",
+      "tasks": ["Steak from freezer 🐄"]
+    },
+    {
+      "dinner": "🍯 Honey Citrus Chicken 🍗"
+    },
+    {
+      "dinner": "🥩 Perfect Flank Steak 🐄"
+    }
+  ]
+}
