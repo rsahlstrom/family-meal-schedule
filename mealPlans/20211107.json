@@ -1,0 +1,28 @@
+{
+  "start": "07 Nov 2021",
+  "days": [
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    },
+    {
+      "dinner": "🍕 Pizza 🇮🇹"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳",
+      "tasks": ["Ground Chicken from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Dad 🍟",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍔 Cheesy Chicken Sloppy Joes 🍗"
+    },
+    {
+      "dinner": "🍝 Easy Lasagna - No Barf Ricotta 🍅"
+    }
+  ]
+}
