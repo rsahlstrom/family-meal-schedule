@@ -1,0 +1,27 @@
+{
+  "start": "21 Nov 2021",
+  "days": [
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    },
+    {
+      "dinner": "🍔 Fast Food By Britain 🍟"
+    },
+    {
+      "dinner": "🍔 Fast Food By Britain 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓", "Pies from freezer 🥧"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟"
+    },
+    {
+      "dinner": "🦃 Thanksgiving 🇺🇸"
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟"
+    },
+    {
+      "dinner": "🦃 Thanksgiving Leftovers 🦴"
+    }
+  ]
+}

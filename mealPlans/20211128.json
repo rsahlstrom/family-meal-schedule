@@ -1,0 +1,28 @@
+{
+  "start": "28 Nov 2021",
+  "days": [
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "🍯 Honey Garlic Chicken 🍗"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍕 Mini Pizzas 🇮🇹"
+    },
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅"
+    }
+  ]
+}
