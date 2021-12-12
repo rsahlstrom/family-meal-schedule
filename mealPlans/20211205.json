@@ -1,0 +1,28 @@
+{
+  "start": "05 Dec 2021",
+  "days": [
+    {
+      "dinner": "🍬 Brown Sugar & Garlic Chicken 🍗"
+    },
+    {
+      "dinner": "🍳 Air Fryer Breakfast Bombs 💣",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Britain 🍟"
+    },
+    {
+      "dinner": "🍿 BBQ Popcorn Chicken 🐓",
+      "tasks": ["Ground Chicken from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟"
+    },
+    {
+      "dinner": "🌮 Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🍞 Eggnog French Toast 🇫🇷"
+    }
+  ]
+}

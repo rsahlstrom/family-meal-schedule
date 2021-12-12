@@ -1,0 +1,27 @@
+{
+  "start": "12 Dec 2021",
+  "days": [
+    {
+      "dinner": "🍳 Air Fryer Breakfast Bombs 💣"
+    },
+    {
+      "dinner": "🌮 Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food By Mom 🍟"
+    },
+    {
+      "dinner": "🍞 Eggnog French Toast 🇫🇷",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Dad 🍟"
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗"
+    },
+    {
+      "dinner": "🥓 Bacon and Cheese Quiche 🧀"
+    }
+  ]
+}
