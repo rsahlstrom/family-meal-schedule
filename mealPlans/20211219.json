@@ -1,0 +1,31 @@
+{
+  "start": "19 Dec 2021",
+  "days": [
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍔 Fast Food By Britain 🍟",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟",
+      "tasks": [
+        "Shoulder Roast from freezer 🐄",
+        "Chicken Breasts from freezer 🐓"
+      ]
+    },
+    {
+      "dinner": "🍝 Easy Lasagna - No Barf Ricotta 🍅"
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🍖 Shoulder Roast with Garlic and Herbs 🌿"
+    }
+  ]
+}
