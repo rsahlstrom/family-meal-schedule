@@ -1,0 +1,27 @@
+{
+  "start": "09 Jan 2022",
+  "days": [
+    {
+      "dinner": "🍕 Kid Calzones 🥧"
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🍔 Fast Food By Dad 🍟"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍕 Little Caesar's Pizza 🇮🇹",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🍖 Philly Cheesesteak Biscuit Bombs 💣"
+    }
+  ]
+}
