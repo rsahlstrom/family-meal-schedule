@@ -1,0 +1,27 @@
+{
+  "start": "23 Jan 2022",
+  "days": [
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🧀 Crispy Parmesan Baked Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food By Eden 🍟"
+    },
+    {
+      "dinner": "🍝 Spaghetti 🇮🇹"
+    },
+    {
+      "dinner": "🐥 McNuggets 🍗",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🥚 Eggs-in-a-frame 🍞"
+    },
+    {
+      "dinner": "🥓 Bacon Cheeseburger Rolls 🍔"
+    }
+  ]
+}
