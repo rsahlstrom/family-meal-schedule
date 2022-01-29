@@ -1,0 +1,27 @@
+{
+  "start": "30 Jan 2022",
+  "days": [
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🍔 Fast Food By Mom 🍟"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Chicken Thighs from freezer 🐓"]
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆"
+    },
+    {
+      "dinner": "🍋 Honey Lime Chicken Thighs 🍗"
+    },
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    }
+  ]
+}
