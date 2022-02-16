@@ -1,0 +1,28 @@
+{
+  "start": "13 Feb 2022",
+  "days": [
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food By Britain 🍟"
+    },
+    {
+      "dinner": "🍝 Spaghetti 🇮🇹"
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆",
+      "tasks": ["Chicken Thighs from freezer 🐓"]
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍋 Honey Lime Chicken Thighs 🍗"
+    }
+  ]
+}
