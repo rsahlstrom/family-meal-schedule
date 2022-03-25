@@ -1,0 +1,27 @@
+{
+  "start": "13 Mar 2022",
+  "days": [
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍳 Air Fryer Breakfast Bombs 💣"
+    },
+    {
+      "dinner": "🧀 Crispy Cheddar Chicken 🍗"
+    }
+  ]
+}

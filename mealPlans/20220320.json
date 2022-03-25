@@ -1,0 +1,27 @@
+{
+  "start": "20 Mar 2022",
+  "days": [
+    {
+      "dinner": "🍕 Kid Calzones 🥧"
+    },
+    {
+      "dinner": "🧀 Crispy Cheddar Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food by Dad 🍟"
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🍕 Papa John's 🇮🇹",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    },
+    {
+      "dinner": "🍗 Salsa Verde Chicken Pasta 🍝"
+    }
+  ]
+}
