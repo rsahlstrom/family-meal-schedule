@@ -1,0 +1,28 @@
+{
+  "start": "10 Apr 2022",
+  "days": [
+    {
+      "dinner": "Chicken Cordon Bleu Pasta"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food by Mom 🍟"
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗"
+    },
+    {
+      "dinner": "🍕 Papa John's 🇮🇹",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🇫🇷 French Toast 🍞"
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    }
+  ]
+}
