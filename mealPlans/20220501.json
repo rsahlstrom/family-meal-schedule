@@ -1,0 +1,28 @@
+{
+  "start": "01 May 2022",
+  "days": [
+    {
+      "dinner": "🍊 Apricot Chicken 🍗"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍔 Fast Food by Eden 🍟"
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🥶 Frozen Pizza 🍕",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍝 Kraft Macaroni and Cheese 🧀"
+    },
+    {
+      "dinner": "🍭 Sweet and Sour Chicken 😖"
+    }
+  ]
+}

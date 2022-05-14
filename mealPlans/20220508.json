@@ -1,0 +1,27 @@
+{
+  "start": "08 May 2022",
+  "days": [
+    {
+      "dinner": "🍝 Easy Lasagna - No Barf Ricotta 🍅"
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🍔 Fast Food by Mom 🍟"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🍔 In-n-Out 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🍊 Apricot Chicken 🍗"
+    }
+  ]
+}

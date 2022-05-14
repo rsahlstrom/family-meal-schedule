@@ -1,0 +1,27 @@
+{
+  "start": "15 May 2022",
+  "days": [
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "👵🏻 Grandma's Macaroni & Cheese 🧀"
+    },
+    {
+      "dinner": "🍔 Fast Food by Dad 🍟"
+    },
+    {
+      "dinner": "♨️ Hot Dogs 🌭",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🍗 Chicken and Roasted Vegetables Dinner 🥔"
+    },
+    {
+      "dinner": "🍕 Kid Calzones 🥧"
+    }
+  ]
+}
