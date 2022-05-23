@@ -1,0 +1,27 @@
+{
+  "start": "22 May 2022",
+  "days": [
+    {
+      "dinner": "🍗 Chicken and Roasted Vegetables Dinner 🥔"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "🍔 Fast Food by Britain 🍟"
+    },
+    {
+      "dinner": "🧈 Buttermilk Pancakes 🥞",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🍝 Parmesan Garlic Spaghetti 🇮🇹"
+    },
+    {
+      "dinner": "🍕 Easy Calzones 🥧"
+    }
+  ]
+}
