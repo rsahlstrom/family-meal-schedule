@@ -1,0 +1,27 @@
+{
+  "start": "29 May 2022",
+  "days": [
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    },
+    {
+      "dinner": "🍖 BBQ with the Rich's 💎"
+    },
+    {
+      "dinner": "🍔 Fast Food by Eden 🍟"
+    },
+    {
+      "dinner": "🍝 Parmesan Garlic Spaghetti 🇮🇹",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🦖 Dino Nuggets 🦕"
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗"
+    },
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    }
+  ]
+}
