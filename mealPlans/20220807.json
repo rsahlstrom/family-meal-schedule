@@ -5,8 +5,7 @@
       "dinner": "🍿 Popcorn Chicken 🐓"
     },
     {
-      "dinner": "🐄 Mini Meatloaves 🍅",
-      "tasks": ["Chicken Breasts from freezer 🐓"]
+      "dinner": "🐄 Mini Meatloaves 🍅"
     },
     {
       "dinner": "🍔 Fast Food by Dad 🍟"
@@ -15,7 +14,8 @@
       "dinner": "🇩🇪 German Pancakes 🥞"
     },
     {
-      "dinner": "🍝 Ramen Noodles 🍜"
+      "dinner": "🍝 Ramen Noodles 🍜",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
     },
     {
       "dinner": "🧀 Mini Quiches 🥚"
