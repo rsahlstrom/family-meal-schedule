@@ -1,0 +1,28 @@
+{
+  "start": "26 Jun 2022",
+  "days": [
+    {
+      "dinner": "♨️ Air Fryer Hot Dogs 🌭"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food by Eden 🍟"
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆",
+      "tasks": ["Chicken Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍝 Kraft Macaroni 🧀"
+    },
+    {
+      "dinner": "🍝 Easy Lasagna - No Barf Ricotta 🍅"
+    }
+  ]
+}

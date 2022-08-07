@@ -1,0 +1,27 @@
+{
+  "start": "31 Jul 2022",
+  "days": [
+    {
+      "dinner": "🍳 Air Fryer Breakfast Bombs 💣"
+    },
+    {
+      "dinner": "🍋 Lemon Pepper Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 Fast Food by Mom 🍟"
+    },
+    {
+      "dinner": "🥛 Buttermilk Pancakes 🥞"
+    },
+    {
+      "dinner": "🍝 Ramen Noodles 🍜",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍝 Kraft Macaroni 🧀"
+    },
+    {
+      "dinner": "🍿 Popcorn Chicken 🐓"
+    }
+  ]
+}

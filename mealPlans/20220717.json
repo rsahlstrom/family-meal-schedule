@@ -1,0 +1,27 @@
+{
+  "start": "17 Jul 2022",
+  "days": [
+    {
+      "dinner": "🍿 Popcorn Chicken 🐓"
+    },
+    {
+      "dinner": "🍯 Honey Citrus Chicken 🍗",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food by Britain 🍟"
+    },
+    {
+      "dinner": "🍯 Honey Butter Chicken 🍗"
+    },
+    {
+      "dinner": "🇫🇷 French Toast 🍞"
+    },
+    {
+      "dinner": "♨️ Air Fryer Hot Dogs 🌭"
+    },
+    {
+      "dinner": "🐖 Ham and Cheese Quiche 🧀"
+    }
+  ]
+}
