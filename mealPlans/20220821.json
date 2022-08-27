@@ -1,0 +1,28 @@
+{
+  "start": "21 Aug 2022",
+  "days": [
+    {
+      "dinner": "👵🏻 Grandma's Macaroni & Cheese 🧀"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍔 In-n-Out 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍝 Ramen Noodles 🍜",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "♨️ Air Fryer Chicken Breasts 🍗"
+    },
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    }
+  ]
+}

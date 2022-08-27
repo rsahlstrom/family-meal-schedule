@@ -1,0 +1,27 @@
+{
+  "start": "14 Aug 2022",
+  "days": [
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    },
+    {
+      "dinner": "🧇 Chocolate Chip Waffles 🍪"
+    },
+    {
+      "dinner": "🍔 Fast Food by Britain 🍟"
+    },
+    {
+      "dinner": "🧀 Grilled Cheese Sandwiches 🥪"
+    },
+    {
+      "dinner": "🍝 Ramen Noodles 🍜",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🥞 Perfect Pancakes 🥇"
+    },
+    {
+      "dinner": "💨 Best Darn Tootin' Air Fryer Chicken Breast 🍗"
+    }
+  ]
+}
