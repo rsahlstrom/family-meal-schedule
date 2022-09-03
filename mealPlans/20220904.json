@@ -1,0 +1,27 @@
+{
+  "start": "04 Sep 2022",
+  "days": [
+    {
+      "dinner": "♨️ Best Darn Tootin' Air Fryer Chicken Breast 🍗"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "🍔 McDonald's 🍟"
+    },
+    {
+      "dinner": "🍝 Ramen Noodles 🍜"
+    },
+    {
+      "dinner": "☀️ Baked Eggs 🥚",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "👶🏻 Mini Pizzas 🍕"
+    },
+    {
+      "dinner": "🌮 Taco Pasta 🍝"
+    }
+  ]
+}
