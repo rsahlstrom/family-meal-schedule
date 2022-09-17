@@ -1,0 +1,27 @@
+{
+  "start": "18 Sep 2022",
+  "days": [
+    {
+      "dinner": "🌺 Hawaiian Grilled Chicken 🍗"
+    },
+    {
+      "dinner": "🍝 Kraft Mac & Cheese 🧀"
+    },
+    {
+      "dinner": "🍔 In-n-Out 🍟"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🥶 Frozen Pizza 🍕"
+    },
+    {
+      "dinner": "🧄 Garlic Parmesan Chicken Tenders 🍗"
+    }
+  ]
+}

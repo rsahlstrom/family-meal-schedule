@@ -1,0 +1,27 @@
+{
+  "start": "11 Sep 2022",
+  "days": [
+    {
+      "dinner": "🍝 Buttered Egg Noodles 🧈"
+    },
+    {
+      "dinner": "🧀 Cheesy Chicken Fajita Casserole 🍗"
+    },
+    {
+      "dinner": "🍔 Chick-fil-A 🍟"
+    },
+    {
+      "dinner": "🍝 Ramen Noodles 🍜"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🥚 Breakfast Burrito Bar 🌯"
+    },
+    {
+      "dinner": "🌺 Hawaiian Grilled Chicken 🍗"
+    }
+  ]
+}
