@@ -1,0 +1,27 @@
+{
+  "start": "02 Oct 2022",
+  "days": [
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧"
+    },
+    {
+      "dinner": "🍯 Honey Butter Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 Burger King 🍟",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🇫🇷 French Toast 🍞"
+    },
+    {
+      "dinner": "🌮 Taco Pasta 🍝"
+    },
+    {
+      "dinner": "👶🏻 Mini Pizzas 🍕"
+    },
+    {
+      "dinner": "🍳 Air Fryer Breakfast Bombs 💣"
+    }
+  ]
+}

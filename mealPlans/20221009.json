@@ -1,0 +1,27 @@
+{
+  "start": "09 Oct 2022",
+  "days": [
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🍔 Arby's 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🥞 Pancakes ☀️"
+    },
+    {
+      "dinner": "🥙 Chicken Filled Stuffing Rolls 🍗"
+    },
+    {
+      "dinner": "♨️ Hard Boiled Eggs 🥚"
+    },
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    }
+  ]
+}

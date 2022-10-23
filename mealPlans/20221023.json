@@ -1,0 +1,27 @@
+{
+  "start": "23 Oct 2022",
+  "days": [
+    {
+      "dinner": "🍝 Pasta Carbonara 🥓"
+    },
+    {
+      "dinner": "♨️ Best Darn Tootin' Air Fryer Chicken Breast 🍗"
+    },
+    {
+      "dinner": "🍔 Slim Chickens 🍟"
+    },
+    {
+      "dinner": "🍝 Kraft Macaroni and Cheese 🧀",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🥞 Mini Maple Pancake Muffins 🍁"
+    },
+    {
+      "dinner": "🍳 Eggs Any Way Dad Likes 🥚"
+    },
+    {
+      "dinner": "🍇 Grape Jelly Meatballs 🥩"
+    }
+  ]
+}

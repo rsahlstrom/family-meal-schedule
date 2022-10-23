@@ -1,0 +1,27 @@
+{
+  "start": "16 Oct 2022",
+  "days": [
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    },
+    {
+      "dinner": "🐖 Ham and Cheddar Loaf 🧀"
+    },
+    {
+      "dinner": "🍔 Arby's 🍟"
+    },
+    {
+      "dinner": "🍕 Easy Calzone 🇮🇹",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍳 Eggs Any Way You Like 🥚"
+    },
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🍝 Pasta Carbonara 🥓"
+    }
+  ]
+}
