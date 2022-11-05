@@ -1,0 +1,27 @@
+{
+  "start": "06 Nov 2022",
+  "days": [
+    {
+      "dinner": "🐖 Ham and Cheddar Loaf 🧀"
+    },
+    {
+      "dinner": "🍯 Honey Citrus Chicken 🍗"
+    },
+    {
+      "dinner": "🍔 McDonald's🍟",
+      "tasks": ["Ground Beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍝 Kraft Macaroni and Cheese 🧀"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🌮 Taco Pasta 🍝"
+    },
+    {
+      "dinner": "🇫🇷 Crockpot French Toast 🥖"
+    }
+  ]
+}
