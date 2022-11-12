@@ -1,0 +1,27 @@
+{
+  "start": "13 Nov 2022",
+  "days": [
+    {
+      "dinner": "🍬 Brown Sugar Ham and Rice 🐖"
+    },
+    {
+      "dinner": "🐄 Mini Meatloaves 🍅"
+    },
+    {
+      "dinner": "🍔 Sonic 🍟"
+    },
+    {
+      "dinner": "🥞 Perfect Pancakes 🥇",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍝 Kraft Macaroni and Cheese 🧀"
+    },
+    {
+      "dinner": "🍳 Air Fryer Breakfast Bombs 💣"
+    },
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧"
+    }
+  ]
+}
