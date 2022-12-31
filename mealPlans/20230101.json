@@ -1,0 +1,28 @@
+{
+  "start": "01 Jan 2023",
+  "days": [
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍝 Kraft Macaroni and Cheese 🧀"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "dinner": "💨 Best Darn Tootin' Air Fryer Chicken Breast 🍗",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🐷 Little Smokies 🐻"
+    },
+    {
+      "dinner": "🥞 Perfect Pancakes 🥇"
+    },
+    {
+      "dinner": "🥩 Homemade Beef and Noodles 🍜"
+    }
+  ]
+}
