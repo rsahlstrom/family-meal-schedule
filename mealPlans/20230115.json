@@ -1,0 +1,27 @@
+{
+  "start": "15 Jan 2023",
+  "days": [
+    {
+      "dinner": "🍗 Grandma's Pot Roast 🥔"
+    },
+    {
+      "dinner": "🌮 Taco Pasta 🍝"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍳 Make-Ahead Muffin Melts 🥪"
+    },
+    {
+      "dinner": "🍯 Honey Citrus Chicken 🍗"
+    },
+    {
+      "dinner": "🧔🏻‍♂️ Dad-made Pizza 🍕"
+    }
+  ]
+}
