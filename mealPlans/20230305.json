@@ -1,0 +1,27 @@
+{
+  "start": "05 Mar 2023",
+  "days": [
+    {
+      "dinner": "🌮 Baked Chicken Tacos 🍗"
+    },
+    {
+      "dinner": "🍍 Hawaiian Meatballs and Rice 🍚"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧"
+    },
+    {
+      "dinner": "🧔🏻‍♂️ Dad-made Pizza 🍕"
+    }
+  ]
+}
