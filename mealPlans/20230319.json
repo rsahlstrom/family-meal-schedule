@@ -1,0 +1,27 @@
+{
+  "start": "19 Mar 2023",
+  "days": [
+    {
+      "dinner": "🍬 Brown Sugar Ham and Rice 🐖"
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹",
+      "tasks": ["Ground beef from freezer 🐄"]
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "dinner": "🍯 Honey Citrus Chicken 🍗"
+    },
+    {
+      "dinner": "🍇 Grape Jelly Meatballs 🥩"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    }
+  ]
+}
