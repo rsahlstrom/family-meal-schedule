@@ -1,0 +1,27 @@
+{
+  "start": "26 Mar 2023",
+  "days": [
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🦖 Dino Nuggets 🦕"
+    },
+    {
+      "dinner": "🥓 Bacon and Eggs 🍳"
+    },
+    {
+      "dinner": "🍯 Honey Butter Chicken 🍗"
+    },
+    {
+      "dinner": "🇫🇷 French Toast 🍞"
+    }
+  ]
+}
