@@ -1,0 +1,27 @@
+{
+  "start": "30 Apr 2023",
+  "days": [
+    {
+      "dinner": "🍝 No Barf Lasagna  m🍅"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍬 Brown Sugar Ham and Rice 🐖"
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🍗 Chicken Quesadillas 🌯"
+    },
+    {
+      "dinner": "🇮🇹 Settebello 🍕"
+    }
+  ]
+}
