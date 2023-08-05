@@ -1,0 +1,27 @@
+{
+  "start": "08 Aug 2023",
+  "days": [
+    {
+      "dinner": "🐓 Mini Chicken Burgers with Herbs 🌿"
+    },
+    {
+      "dinner": "🇩🇪 German Pancakes 🥞"
+    },
+    {
+      "dinner": "🍝 Alfredo Pasta 🇮🇹"
+    },
+    {
+      "dinner": "🍬 Brown Sugar Ham and Rice 🐖",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟"
+    },
+    {
+      "dinner": "🇺🇸 Free-for-all 🎆"
+    },
+    {
+      "dinner": "💨 Best Darn Tootin' Air Fryer Chicken Breast 🍗"
+    }
+  ]
+}
