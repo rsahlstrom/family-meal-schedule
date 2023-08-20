@@ -1,0 +1,27 @@
+{
+  "start": "20 Aug 2023",
+  "days": [
+    {
+      "dinner": "🍚 Teriyaki Chicken 🍗"
+    },
+    {
+      "dinner": "🎃 Mummy Dogs 🌭"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "tasks": ["Ground Chicken from freezer 🐓"]
+    },
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧"
+    },
+    {
+      "dinner": "🥚 Breakfast Quesadillas 🌯"
+    },
+    {
+      "dinner": "🍯 Honey Butter Chicken 🍗"
+    },
+    {
+      "dinner": "🧔🏽 Dad-made Pizza 🍕"
+    }
+  ]
+}
