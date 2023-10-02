@@ -1,0 +1,28 @@
+{
+  "start": "10 Oct 2023",
+  "days": [
+    {
+      "dinner": "👵🏻 Grandma's Macaroni & Cheese 🧀",
+      "tasks": ["Chicken Breasts from freezer 🐓"]
+    },
+    {
+      "dinner": "🇫🇷 French Toast 🍞"
+    },
+    {
+      "dinner": "🍔 Fast Food 🍟",
+      "alert": "Marinade chicken breasts 🐓"
+    },
+    {
+      "dinner": "💨 Best Darn Tootin' Air Fryer Chicken Breast 🍗"
+    },
+    {
+      "dinner": "😃 Happy Ham Helpers 🐖"
+    },
+    {
+      "dinner": "♨️ Air Fryer Pizza 🍕"
+    },
+    {
+      "dinner": "🍗 Chicken Pot Pie Noodles 🥧"
+    }
+  ]
+}
