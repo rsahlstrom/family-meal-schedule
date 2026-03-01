@@ -7,6 +7,9 @@ import { format, addDays } from 'date-fns';
 import 'twin.macro';
 
 const MealSchedule = ({ planData }) => {
+  if (planData.start === null) {
+    planData.start = new Date();
+  }
   const startDate = new Date(planData.start);
   const endDate = addDays(new Date(planData.start), planData.days.length - 1);
 
@@ -31,7 +34,14 @@ export async function getStaticProps(context) {
   const mealPlansDirectory = path.join(process.cwd(), 'mealPlans');
   const filename = `${year}${month}${date}.json`;
   const mealPlanFile = path.join(mealPlansDirectory, filename);
-  const fileContents = JSON.parse(fs.readFileSync(mealPlanFile, 'utf8'));
+  let fileContents = null;
+  try {
+    fileContents = JSON.parse(fs.readFileSync(mealPlanFile, 'utf8'));
+  } catch (e) {
+    fileContents = JSON.parse(
+      fs.readFileSync(path.join(mealPlansDirectory, 'blank.json'), 'utf8')
+    );
+  }
   return {
     props: {
       planData: fileContents,
@@ -43,7 +53,16 @@ export async function getStaticPaths() {
   const mealPlansDirectory = path.join(process.cwd(), 'mealPlans');
   const filenames = fs.readdirSync(mealPlansDirectory);
   const mealPlans = filenames.map((filename) => {
-    const matches = filename.match(/(\d{4})(\d{2})(\d{2})/);
+    let matches = filename.match(/(\d{4})(\d{2})(\d{2})/);
+    if (!matches) {
+      const today = new Date();
+      matches = [
+        '',
+        today.getFullYear().toString(),
+        (today.getMonth() + 1).toString(),
+        today.getDate().toString(),
+      ];
+    }
     return {
       params: {
         year: matches[1],

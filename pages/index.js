@@ -36,10 +36,23 @@ export async function getStaticProps() {
   const mealPlansDirectory = path.join(process.cwd(), 'mealPlans');
   const filenames = fs.readdirSync(mealPlansDirectory);
   const plans = filenames.map((filename) => {
-    const matches = filename.match(/(\d{4})(\d{2})(\d{2})/);
+    let matches = filename.match(/(\d{4})(\d{2})(\d{2})/);
+    if (!matches) {
+      const today = new Date();
+      matches = [
+        '',
+        today.getFullYear(),
+        today.getMonth() + 1,
+        today.getDate(),
+      ];
+    }
     const mealPlanFile = path.join(mealPlansDirectory, filename);
     const fileContents = JSON.parse(fs.readFileSync(mealPlanFile, 'utf8'));
-    const startDate = new Date(fileContents.start);
+    if (fileContents.start === null) {
+      fileContents.start = new Date();
+    }
+    let startDate = new Date(fileContents.start);
+
     return {
       title: format(startDate, 'dd MMM yyyy'),
       year: matches[1],
